@@ -2,7 +2,8 @@
 QBCore ile uyumlu, Türkçeleştirilmiş bir appearance scripti.
 Original Script: https://github.com/pedr0fontoura/fivem-appearance
 
-- [arslan-multicharacter]() ile uyumlu. Direkt kur ve çalıştır. 
+- [arslan-multicharacter](https://github.com/SezerGuvener/arslan-multicharacter) ile uyumlu. Direkt kur ve çalıştır.
+- [Priview](https://streamable.com/zd691p)
 
 ## Requirments
 
@@ -21,7 +22,7 @@ Original Script: https://github.com/pedr0fontoura/fivem-appearance
 - Put `setr fivem-appearance:locale "en"` in your server.cfg
 - Put `ensure fivem-appearance` in your server.cfg
 - Follow the code below to replace the events
-- Download [qb-target]()
+- Download [qb-target](https://github.com/SezerGuvener/qb-target)
 - Delete original qb-target. resources/[qb]/qb-target
 - Put the downloaded qb-target into resources/[qb]
 
@@ -106,10 +107,4 @@ RegisterNUICallback('cDataPed', function(data)
     end
 end)
 ```
-
-## Preview
-![Clothes Store]()
-![Barber Shop]()
-![Player Customization]()
-
 
