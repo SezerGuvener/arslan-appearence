@@ -2,6 +2,8 @@
 QBCore ile uyumlu, Türkçeleştirilmiş bir appearance scripti.
 Original Script: https://github.com/pedr0fontoura/fivem-appearance
 
+- [arslan-multicharacter]() ile uyumlu. Direkt kur ve çalıştır. 
+
 ## Requirments
 
 - QBCore
